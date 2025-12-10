@@ -11,18 +11,18 @@ LMArena-API 是一款桌面应用，让你无需付费订阅，就能在各种 A
 <table style="width:100%; border-collapse:collapse;">
   <tr>
     <td style="text-align:center; padding:6px;">
-      <img src="E:\work\promotion\LMArena-api\images\image-20251210172449076.png" width="90%" alt="image-20251210172449076" />
+      <img src="images/image-20251210172449076.png" width="90%" alt="image-20251210172449076" />
     </td>
     <td style="text-align:center; padding:6px;">
-      <img src="E:\work\promotion\LMArena-api\images\image-20251210172527772.png" width="90%" alt="image-20251210172527772" />
+      <img src="images/image-20251210172527772.png" width="90%" alt="image-20251210172527772" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center; padding:6px;">
-      <img src="E:\work\promotion\LMArena-api\images\image-20251210172607869.png" width="90%" alt="image-20251210172607869" />
+      <img src="images/image-20251210172607869.png" width="90%" alt="image-20251210172607869" />
     </td>
     <td style="text-align:center; padding:6px;">
-      <img src="E:\work\promotion\LMArena-api\images\image-20251210172708851.png" width="90%" alt="image-20251210172708851" />
+      <img src="images/image-20251210172708851.png" width="90%" alt="image-20251210172708851" />
     </td>
   </tr>
 </table>
