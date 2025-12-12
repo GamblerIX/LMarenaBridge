@@ -54,7 +54,7 @@ LMArena-API 是一款桌面应用，让你无需付费订阅，就能在各种 A
 
 ### 第一步：下载安装
 
-从 [GitHub Releases](https://github.com/jtostrings/LMarenaBridge/releases) 下载对应版本：
+从 [GitHub Releases](https://github.com/jtostrings/LMarenaBridge/releases) 下载latest版本：
 
 | 操作系统 | 下载文件 | 说明 |
 |---------|---------|------|
@@ -62,32 +62,19 @@ LMArena-API 是一款桌面应用，让你无需付费订阅，就能在各种 A
 | **macOS-inter芯片** | `LMArena-API-mac-x64` | 拖入应用程序文件夹 |
 | **macOS-M芯片** | LMArena-API-mac-arm64 | 拖入应用程序文件夹 |
 
-### 第二步：启动并配置（约 2 分钟）
-
-**选择客户端模式：**
-
-LMArena-API 支持两种客户端模式，**只能选择其中一种**：
-
-- **网页客户端（推荐新手）**：应用内置，一键创建，简单易用
-- **Websocket 客户端（推荐高频用户）**：通过浏览器油猴脚本实现，**有效降低人机校验触发率**
-
-> **💡 如何选择？**
-> - 快速上手、偶尔使用 → 选择**网页客户端**
-> - 高频调用、担心人机校验 → 选择**Websocket 客户端**（参考 [Websocket-client.md](Websocket-client.md)）
-
-**使用网页客户端模式：**
+### 第二步：启动并配置
 
 1. **启动应用** → 运行 LMArena-API
+
 2. **创建客户端** → 进入「网页客户端」页面 → 点击「新建客户端」
+
 3. **网站条款验证** → 在弹出的页面中发送任意一条消息
+
 4. **启动服务** → 回到「服务控制」页面 → 点击「启动服务」
 
-**使用 Websocket 客户端模式：**
+5. **测试服务** → 进入「API 测试」页面，选择模型后点击「测试」，正确响应后代表服务启动成功
 
-1. **启动应用** → 运行 LMArena-API
-2. **安装油猴脚本** → 参考 [Websocket-client.md](Websocket-client.md) 文档
-3. **启动服务** → 在「服务控制」页面点击「启动服务」
-4. **验证连接** → 在浏览器中访问 LMArena，确认脚本正常运行
+   ![image-20251212163555870](images/image-20251212163555870.png)
 
 ✅ 完成！现在你的本地 API 服务已在 `http://127.0.0.1:61001` 运行
 
