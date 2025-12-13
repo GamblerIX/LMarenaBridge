@@ -410,7 +410,7 @@ if __name__ == "__main__":
 如果你使用的是 WebSocket 客户端模式，还需要更新油猴脚本：
 
 1. 在油猴脚本管理器中移除旧版 LMArena.js
-2. 从 [script/LMArena.js](https://github.com/jtostrings/LMarenaBridge/blob/main/script/LMArena.js) 获取最新脚本，添加到脚本管理页面
+2. 从 [script/LMArena.js](https://github.com/jtostrings/LMarenaBridge/blob/master/script/LMArena.js) 获取最新脚本，添加到脚本管理页面
 3. 完全重启浏览器实例以应用脚本更新
 
 </details>
