@@ -310,6 +310,7 @@ if __name__ == "__main__":
 
 微信: tostring1 (如果扫码失败, 请直接搜索微信号)
 备用 QQ: 854569279
+Telegram: https://t.me/jtostring
 
 <img src="images/image-authorization-qrcode.png" width="200" />
 
